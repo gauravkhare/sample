@@ -1,0 +1,11 @@
+CPU	CPUBRAND
+PXII	Phenom XII
+C2E	Core 2 Extreme
+CI5	Core i5
+C2D	Core 2 Duo
+A64X2	Athlong 64 X2
+C2Q	Core 2 Quad
+CI7	Core i7
+SEMP	Sempron
+CEDC	Celeron Dual Core
+PDC	Pentium Dual Core
